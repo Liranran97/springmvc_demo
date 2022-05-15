@@ -50,7 +50,6 @@
             <artifactId>lombok</artifactId>
         </dependency>
         <!--完成领导分配的第一个功能-->
-        <!--检验协同开发LJK1.1-->
     </dependencies>
 
     <build>
