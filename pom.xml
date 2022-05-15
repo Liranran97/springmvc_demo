@@ -49,6 +49,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <!--完成领导分配的第一个功能-->
     </dependencies>
 
     <build>
